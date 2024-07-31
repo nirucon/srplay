@@ -31,8 +31,8 @@ I use this with my [Arch Linux Post Install script](https://github.com/nirucon/n
 
 2. Ensure all dependencies are installed:
    ```sh
-   sudo apt-get install dmenu mpv notify-send jq curl
    sudo pacman -S dmenu mpv notify-send jq curl
+   sudo apt-get install dmenu mpv notify-send jq curl
    ```
 
 ## Usage
