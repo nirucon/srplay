@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# SR play - play Swedish radio and podcasts - Script by Nicklas Rudolfsson
+# srplay-dmenu - play swedish radio and podcasts in dmenu - script by Nicklas Rudolfsson
 # https://github.com/nirucon
 # This script is a combination of two of my other scripts: srpod-dmenu and sverigesradio-dmenu
 
