@@ -56,4 +56,4 @@ This script is a combination of two other scripts by Nicklas Rudolfsson:
 
 ## License
 
-Feel free to use and modify, buy me something if you want ;)
+Feel free to use and modify, donate if you want :) https://www.paypal.com/paypalme/nicklasrudolfsson
